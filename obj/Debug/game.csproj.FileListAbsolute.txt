@@ -1,0 +1,14 @@
+C:\Users\Александр\Desktop\game\bin\Debug\game.exe.config
+C:\Users\Александр\Desktop\game\bin\Debug\game.exe
+C:\Users\Александр\Desktop\game\bin\Debug\game.pdb
+C:\Users\Александр\Desktop\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\game\obj\Debug\game.Form1.resources
+C:\Users\Александр\Desktop\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Александр\Desktop\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\game\obj\Debug\game.exe
+C:\Users\Александр\Desktop\game\obj\Debug\game.pdb
+C:\Users\Александр\Desktop\game\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Desktop\game\bin\Debug\nunit.framework.pdb
+C:\Users\Александр\Desktop\game\bin\Debug\nunit.framework.xml
+C:\Users\Александр\Desktop\game\obj\Debug\game.csproj.CopyComplete
